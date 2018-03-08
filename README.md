@@ -1,7 +1,7 @@
 # linreg-workshop
-Linear Regression Workshop for CAIS++ (Feb. 26, 2018)
+Logistic Regression Workshop for CAIS++ (Feb. 26, 2018)
 
-Corresponding written lesson: [Linear Regression](http://caisplusplus.usc.edu/blog/curriculum/lesson3)
+Corresponding written lesson: [Logistic Regression](http://caisplusplus.usc.edu/blog/curriculum/lesson3)
 
 ## Instructions:
 
@@ -12,6 +12,8 @@ Corresponding written lesson: [Linear Regression](http://caisplusplus.usc.edu/bl
 5. Activate your anaconda environment by typing `activate caispp` on windows or `source activate caispp` on mac.
 6. Open jupyter notebook in your browser with `jupyter notebook`
 7. Complete the workshop
+
+If the instructions do not work for you, you can also fork this repo. However, just realize that if you make changes they will not show up as contributions on your github.
 
 ### If you have errors in the jupyter notebook regarding dependencies, you might have to install them using conda or pip. Please refer here for more help: https://conda.io/docs/user-guide/tasks/manage-pkgs.html
 
