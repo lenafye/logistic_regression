@@ -1,5 +1,5 @@
 # linreg-workshop
-Logistic Regression Workshop for CAIS++ (Feb. 26, 2018)
+Logistic Regression Workshop for CAIS++ (October 1, 2018)
 
 Corresponding written lesson: [Logistic Regression](http://caisplusplus.usc.edu/blog/curriculum/lesson3)
 
@@ -13,11 +13,12 @@ Corresponding written lesson: [Logistic Regression](http://caisplusplus.usc.edu/
 6. Open jupyter notebook in your browser with `jupyter notebook`
 7. Complete the workshop
 
-If the instructions do not work for you, you can also fork this repo. However, just realize that if you make changes they will not show up as contributions on your github.
-
 ### If you have errors in the jupyter notebook regarding dependencies, you might have to install them using conda or pip. Please refer here for more help: https://conda.io/docs/user-guide/tasks/manage-pkgs.html
 
-8. To get credit for completing the workshop, create an issue in your repository and tag 'Raghav-Maheshwari' so that I can check you off.
-(https://help.github.com/articles/creating-an-issue/)
+If you don't have GitHub set up or the instructions do not work for you, you can also just download this repo for now and set up Github later.
+
+To get credit for completing the workshop, please create an issue in your repository and tag '
+
+8. To get credit for completing the workshop, create an issue in your repository and tag 'shomikj' so that I can check you off. (https://help.github.com/articles/creating-an-issue/)
 
 
