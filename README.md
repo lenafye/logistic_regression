@@ -17,8 +17,6 @@ Corresponding written lesson: [Logistic Regression](http://caisplusplus.usc.edu/
 
 If you don't have GitHub set up or the instructions do not work for you, you can also just download this repo for now and set up Github later.
 
-To get credit for completing the workshop, please create an issue in your repository and tag '
-
-8. To get credit for completing the workshop, create an issue in your repository and tag 'shomikj' so that I can check you off. (https://help.github.com/articles/creating-an-issue/)
+To get credit for completing the workshop, please create an issue in your repository and tag 'shomikj' so that I can check you off. (https://help.github.com/articles/creating-an-issue/)
 
 
